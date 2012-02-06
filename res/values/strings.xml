@@ -452,5 +452,9 @@
     <string name="folderpicker_title">Set favorite folder</string>
     <string name="folderpicker_set">Done</string>
 
+    <string name="various_category_title">Various</string>
+    <string name="a2dp_autoplay_title">A2DP autoplay</string>
+    <string name="a2dp_autoplay_summary">Start playback automatically when a bluetooth A2DP device is connected</string>
+
 </resources>
 
